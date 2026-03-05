@@ -9,3 +9,7 @@ Structure:
 - oop/
 - collections/
 - projects/
+
+Projects
+- CLI Calculator
+- CLI Todo Manager
