@@ -1,0 +1,2 @@
+Hello from Kotlin File Handling!
+Learning Kotlin is fun!
