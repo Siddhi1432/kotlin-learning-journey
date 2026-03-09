@@ -13,3 +13,4 @@ Structure:
 Projects
 - CLI Calculator
 - CLI Todo Manager
+- Password Generator Tool
